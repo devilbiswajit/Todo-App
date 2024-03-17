@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #172842;
+    margin: 0; /* To remove default body margin */
+    padding: 0 ;
+    overflow: hidden;
+    /* To remove default body padding */
+  }
+
